@@ -1,0 +1,10 @@
+{
+  "title": "cruise-product-skill",
+  "description": "通过技能获取邮轮产品信息，轻松掌握邮轮详情。",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}
