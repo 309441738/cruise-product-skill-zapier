@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.309441738/cruise-product-skill",
+  "description": "通过技能获取邮轮产品信息，轻松掌握邮轮详情。",
+  "version": "0.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://cruise-mcp.olavacations.com/api/gw/mcp/47ec0dd1-a779-405b-a9f9-e6d4201663c4"
+    }
+  ]
+}
